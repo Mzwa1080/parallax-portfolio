@@ -87,6 +87,14 @@ p {
     margin-bottom: 1rem
 }
 
+/* .bi-link::before {
+    content: "\f471"
+}
+
+.bi-github::before {
+    content: "\f472"
+} */
+
 abbr[data-original-title],abbr[title] {
     text-decoration: underline;
     -webkit-text-decoration: underline dotted;
